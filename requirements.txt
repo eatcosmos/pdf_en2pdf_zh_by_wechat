@@ -1,0 +1,19 @@
+# python 3.9
+# pip install -r requirements.txt
+
+
+pdf2image # python -m pip install pdf2image
+# pypiwin32 # python -m pip install pypiwin32
+pywinauto # python -m pip install pywinauto
+psutil # python -m pip install psutil
+# 微信
+# 安装 python3.9 依赖
+pyautogui # python -m pip install pyautogui
+pygetwindow # python -m pip install pygetwindow
+pywin32 # python -m pip install pywin32
+clipboard # python -m pip install clipboard
+
+pytesseract # pip install pytesseract Pillow
+keyboard # pip install keyboard
+
+PyPDF2 # pip install PyPDF2
